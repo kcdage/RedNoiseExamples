@@ -13,3 +13,6 @@ The following modules are called on from "sliverLS":
 
 Finally, there is "plotdata", which takes in the output of sliverLS and plots it. 
 # RedNoiseSimulations
+
+
+
